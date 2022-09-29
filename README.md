@@ -32,6 +32,19 @@ I have created a informational bot using Html and services like QnA maker,Web ap
  ![WhatsApp Image 2022-09-29 at 3 00 00 PM](https://user-images.githubusercontent.com/114249958/192996199-98c6a4f1-0d64-41e2-95c0-9ccacb800c9f.jpeg)
 ## Gallery Page:
 ![WhatsApp Image 2022-09-29 at 3 04 58 PM](https://user-images.githubusercontent.com/114249958/192997025-f023a28d-a7f9-4be5-a941-bc7363476005.jpeg)
- 
+## Contact Page:
+![WhatsApp Image 2022-09-29 at 3 00 03 PM](https://user-images.githubusercontent.com/114249958/192997364-c94c5d91-7d5c-4651-b46f-61fa7d7825ad.jpeg)
+## About Page:
+![WhatsApp Image 2022-09-29 at 3 00 02 PM (1)](https://user-images.githubusercontent.com/114249958/192997490-e8e48cd6-37ef-46bc-89b0-591bed62acef.jpeg)
+## FAQ Page:
+![WhatsApp Image 2022-09-29 at 3 00 02 PM](https://user-images.githubusercontent.com/114249958/192997640-a9682e96-667d-44fd-98fc-7c51ed1b2819.jpeg)
+## Chat bot Page:
+![WhatsApp Image 2022-09-29 at 3 00 01 PM (1)](https://user-images.githubusercontent.com/114249958/192997725-32ae967d-72a1-4e74-8cda-c791e2f5104c.jpeg)
 
+## TECH STACK:
+### Languages and Services used in my bot:-
+ - HTML
+ - QnA Maker
+ - Web App Bot
+ - Java script
 
