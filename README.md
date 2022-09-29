@@ -32,6 +32,6 @@ I have created a informational bot using Html and services like QnA maker,Web ap
  ![WhatsApp Image 2022-09-29 at 3 00 00 PM](https://user-images.githubusercontent.com/114249958/192996199-98c6a4f1-0d64-41e2-95c0-9ccacb800c9f.jpeg)
 ## Gallery Page:
 ![WhatsApp Image 2022-09-29 at 3 04 58 PM](https://user-images.githubusercontent.com/114249958/192997025-f023a28d-a7f9-4be5-a941-bc7363476005.jpeg)
-
+ 
 
 
