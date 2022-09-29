@@ -7,7 +7,8 @@
 ## project title:
             E-Tech Agri
            
-## Project description : I have created a informational bot using Html and services like QnA maker,Web app bot.It helps the user to find information about the electronics like; what are they and how the are used as well as what are there services.In this website I make five pages i.e; Home,contact,about,FAQ,chat bot.It looks like a professional bot.I am trying to solve the real world problrm likr in these days we are searching for good and genuine websites,apps etc.for information here and there.So i make a bot where I try to give every details of devices which which are being used for agriculture in these days.My project helps both learns and explorers like for learners i provided every details i.e; each device iamges and its explanation etc..and for explorers i gave everything there in the bot to know more and to create,build,deploy etc...
+## Project description : 
+         I have created a informational bot using Html and services like QnA maker,Web app bot.It helps the user to find information about the electronics like; what are they and how the are used as well as what are there services.In this website I make five pages i.e; Home,contact,about,FAQ,chat bot.It looks like a professional bot.I am trying to solve the real world problrm likr in these days we are searching for good and genuine websites,apps etc.for information here and there.So i make a bot where I try to give every details of devices which which are being used for agriculture in these days.My project helps both learns and explorers like for learners i provided every details i.e; each device iamges and its explanation etc..and for explorers i gave everything there in the bot to know more and to create,build,deploy etc...
 
 ## Features and functionalities :
 - Interactive and responsive UI
