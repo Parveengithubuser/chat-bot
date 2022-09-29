@@ -2,7 +2,7 @@
  This is a informational bot application developed for improving farming techniques related information about electronics in agriculture.
  ### This web based informational bot apllication has been developed for the accomplishment of future ready talent intership program lanched by microsoft,future skills prime,Quess,GitHub,EY.
  
-## project link: 
+## project link: https://sites.google.com/d/1GiVdFIX6E6EqEw08-lt86Ey9-kugmT4_/p/1Sz94gYCOOyUX7_7jjo-KHeRvfJV_RL3V/edit
 
 ## project title:
             E-Tech Agri
